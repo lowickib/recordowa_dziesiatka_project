@@ -16,11 +16,11 @@
 
 ## 🚀 Summary
 
-This data analytics portfolio project showcases the use of Microsoft Excel to extract, transform, and analyze detailed race data from the 2025 **Maniacka Dziesiątka** 10 km race. The goal was to create a fully interactive Excel dashboard that explores pacing strategies, demographic breakdowns, and performance metrics across 4,218 participants. Key Excel tools such as Power Query, Power Pivot, DAX measures, Pivot Charts, and advanced formulas were used to uncover actionable insights and tell a compelling data story.
+This data analytics portfolio project showcases the use of Microsoft Excel to extract, transform, and analyze detailed race data from the 2025 **Recordowa Dziesiątka** 10 km race. The goal was to create a fully interactive Excel dashboard that explores pacing strategies, demographic breakdowns, and performance metrics across 4,218 participants. Key Excel tools such as Power Query, Power Pivot, DAX measures, Pivot Charts, and advanced formulas were used to uncover actionable insights and tell a compelling data story.
 
 ## 📝 Project Description
 
-This project analyzes results from the **Maniacka Dziesiątka** – one of the most popular 10 km road races in Poland, held annually in Poznań. The race is known for its flat, fast course and attracts thousands of runners, including elite athletes and amateurs.
+This project analyzes results from the **Recordowa Dziesiątka** – one of the most popular 10 km road races in Poland, held annually in Poznań. The race is known for its flat, fast course and attracts thousands of runners, including elite athletes and amateurs.
 
 The goal of this project is to explore participant data to uncover trends related to age, gender, performance, and pacing. The final result includes an interactive Excel dashboard that presents key insights and comparisons between different runner groups.
 
@@ -375,8 +375,6 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 - Club runners performed better on average, highlighting the benefits of guided training and running communities.
 
 ## 📊 Runner's Stats – Dashboard Visuals
-
-# Runner’s Stats Dashboard Overview
 
 This dashboard provides detailed individual statistics for a selected runner based on their bib number. It allows performance comparison against all race participants.
 
