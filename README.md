@@ -159,27 +159,27 @@ Includes three options for switching between dashboard views:
 - **Runner’s Stats**
 
 ---
-<img src="assets/general_race_stats/Race_Stats_Dashboard.png" alt="Overview of General Race Statistics Dashboard" style="max-height:500px;" />
+![Overview of General Race Statistics Dashboard](assets/general_race_stats/Race_Stats_Dashboard.png)
 *Overview of General Race Statistics Dashboard*
 
 Descriptions of the main charts used in the **General Race Statistics** dashboard:
 
 ### 1. Number of Runners Per Age Group
-<img src="assets/general_race_stats/Number_Of_Runners_Per_Age_Group.png" alt="Number of Runners Per Age Group" style="max-height:500px;" />
+![Number of Runners Per Age Group](assets/general_race_stats/Number_Of_Runners_Per_Age_Group.png)
 🛠️ **Excel Features:** Clustered column chart with data labels\
 🎨 **Design Choice:** Vertical bars sorted by age for intuitive comparison\
 📉 **Data Organization:** Participants grouped by age category\
 💡 **Insights Gained:** The 30s (1,563 runners) and 40s (1,323 runners) account for **over 68% of all participants (2,886 out of 4,218)**, clearly dominating the race demographics.
 
 ### 2. Average Chip Time Per Age Group
-<img src="assets/general_race_stats/Average_Chip_Time_Per_Age_Group.png" alt="Average Chip Time Per Age Group" style="max-height:500px;" />
+![Average Chip Time Per Age Group](assets/general_race_stats/Average_Chip_Time_Per_Age_Group.png)
 🛠️ **Excel Features:** Clustered column chart with time-formatted axis\
 🎨 **Design Choice:** Clear visual representation of average race time by age\
 📉 **Data Organization:** Bars sorted by age group\
 💡 **Insights Gained:** The average finish time **does not follow a linear trend** — it improves from ages 16 to 30 (30s are the fastest), then worsens steadily from age 40 onward. This reflects both peak athletic performance and natural age-related decline.
 
 ### 3. Funnel Time Category Distribution
-<img src="assets/general_race_stats/Funnel_Time_Category_Distribution.png" alt="Funnel Time Category Distribution" style="max-height:500px;" />
+![Funnel Time Category Distribution](assets/general_race_stats/Funnel_Time_Category_Distribution.png)
 
 🛠️ **Excel Features:** Horizontal bar chart designed to mimic funnel shape\
 🎨 **Design Choice:** Ordered by performance tiers, from most to least inclusive\
@@ -187,7 +187,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 💡 **Insights Gained:** **1,229 runners** finished under 40 minutes — that's **almost 30% of all participants**, highlighting both the **fast course** and the **high athletic standard** of the race.
 
 ### 4. Split Type Distribution
-<img src="assets/general_race_stats/Split_Type_Distribution.png" alt="Split Type Distribution" style="max-height:500px;" />
+![Split Type Distribution](assets/general_race_stats/Split_Type_Distribution.png)
 
 
 
@@ -197,14 +197,14 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 💡 **Insights Gained:** Even splits were most common (approx. 47%), followed by positive (33%) and negative splits (20%). This shows that a large proportion of runners paced themselves evenly, and relatively few managed to run a negative split (faster second half).
 
 ### 5. Average Pace by Split Type
-<img src="assets/general_race_stats/Average_Pace_by_Split_Type.png" alt="Average Pace by Split Type" style="max-height:500px;" />
+![Average Pace by Split Type](assets/general_race_stats/Average_Pace_by_Split_Type.png)
 🛠️ **Excel Features:** Clustered column chart with pace-formatted labels\
 🎨 **Design Choice:** Side-by-side comparison of pacing strategies\
 📉 **Data Organization:** Average pace per split type\
 💡 **Insights Gained:** Runners with even splits had the fastest average pace, followed by negative splits. Positive splits resulted in the slowest paces, confirming the efficiency of steady pacing.
 
 ### 6. Time Distribution with Milestones
-<img src="assets/general_race_stats/Time_Distribution_with_Popular_Milestones_Highlighted.png" alt="Time Distribution with Popular Milestones Highlighted" style="max-height:500px;" />
+![Time Distribution with Popular Milestones Highlighted](assets/general_race_stats/Time_Distribution_with_Popular_Milestones_Highlighted.png)
 
 🛠️ **Excel Features:** Clustered column chart acting as a histogram\
 🎨 **Design Choice:** 1-minute bins help identify pacing density\
@@ -212,7 +212,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 💡 **Insights Gained:** More runners finished **just before milestone minutes** (e.g., 39, 44, 49, 54, 59) than at the milestone itself (40, 45, etc.), indicating that **many runners actively pushed to break symbolic time barriers** — and succeeded.
 
 ### 7. Top 10 Clubs by Number of Runners
-<img src="assets/general_race_stats/Top_10_Clubs_by_Number_of_Runners.png" alt="Top 10 Clubs by Number of Runners" style="max-height:500px;" />
+![Top 10 Clubs by Number of Runners](assets/general_race_stats/Top_10_Clubs_by_Number_of_Runners.png)
 
 🛠️ **Excel Features:** Horizontal bar chart\
 🎨 **Design Choice:** Better visibility of club names\
@@ -220,7 +220,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 💡 **Insights Gained:** Poznań-based clubs dominated the top 10, with “adidas Runners Poznań” and “Mistrzowski Trening” leading the pack.
 
 ### 8. Average Pace by Club Members
-<img src="assets/general_race_stats/Average_Pace_by_Club_Members.png" alt="Average Pace by Club Members" style="max-height:500px;" />
+![Average Pace by Club Members](assets/general_race_stats/Average_Pace_by_Club_Members.png)
 
 🛠️ **Excel Features:** Clustered column chart with boolean comparison\
 🎨 **Design Choice:** Simple true/false grouping for clear contrast\
@@ -228,7 +228,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 💡 **Insights Gained:** Club members ran significantly faster on average. This suggests that **joining a club tends to happen later in a runner’s journey**, often among those who are already experienced and looking to improve further.
 
 ### 9. Top 10 Cities by Number of Runners
-<img src="assets/general_race_stats/Top_10_Cities_by_Number_of_Runners.png" alt="Top 10 Cities by Number of Runners" style="max-height:500px;" />
+![Top 10 Cities by Number of Runners](assets/general_race_stats/Top_10_Cities_by_Number_of_Runners.png)
 
 🛠️ **Excel Features:** Horizontal bar chart\
 🎨 **Design Choice:** Sorted to highlight city-level participation\
@@ -277,13 +277,13 @@ Contains three options to switch between dashboard views:
 - **Runner’s Stats**
 ---
 
-<img src="assets/filtered_race_stats/Filtered_Race_Stats_Dashboard.png" alt="Overview of Filtered Race Statistics Dashboard" style="max-height:500px;" />
+![Overview of Filtered Race Statistics Dashboard](assets/filtered_race_stats/Filtered_Race_Stats_Dashboard.png)
 *Overview of Filtered Race Statistics Dashboard*
 
 The following visualizations come from the dashboard: ***Filtered Race Stats***
 
 ### 1. Number of Runners Per Sex/Age Group
-<img src="assets/filtered_race_stats/Number_of_Runner_Per_Sex_Age_Group.png" alt="Number of Runner Per Sex/Age Group" style="max-height:500px;" />
+![Number of Runner Per Sex/Age Group](assets/filtered_race_stats/Number_of_Runner_Per_Sex_Age_Group.png)
 
 
 🛠️ **Excel Features:** Clustered column chart with side-by-side bars\
@@ -292,7 +292,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** Males dominated participation in all age groups, especially in their 30s and 40s. Female participation peaked in the 30s and declined with age. The overall age distribution is similar for both men and women.Males dominated participation in all age groups, especially in their 30s and 40s. Female participation peaked in the 30s and declined with age.
 
 ### 2. Average Chip Time Per Age Group (by Sex)
-<img src="assets/filtered_race_stats/Average_Chip_Time_Per_Sex_Age_Group.png" alt="Average Chip Time Per Sex/Age Group" style="max-height:500px;" />
+![Average Chip Time Per Sex/Age Group](assets/filtered_race_stats/Average_Chip_Time_Per_Sex_Age_Group.png)
 
 
 🛠️ **Excel Features:** Clustered column chart with dual series (male vs female)\
@@ -301,7 +301,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** Men consistently achieved faster chip times than women across all age brackets. The fastest average times were recorded by men in their 30s. Time distribution patterns are similar across both sexes.Men consistently achieved faster chip times than women across all age brackets. The fastest average times were recorded by men in their 30s.
 
 ### 3. Funnel Time Category Distribution (by Sex)
-<img src="assets/filtered_race_stats/Funnel_Time_Category_Distribution.png" alt="Funnel Time Category Distribution" style="max-height:500px;" />
+![Funnel Time Category Distribution](assets/filtered_race_stats/Funnel_Time_Category_Distribution.png)
 
 🛠️ **Excel Features:** Horizontal stacked bar chart\
 🎨 **Design Choice:** Cumulative view with gender split\
@@ -309,7 +309,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** A significant portion of males achieved sub-50 and sub-45 times, while female runners were more concentrated in the sub-55 and sub-60 categories.
 
 ### 4. Split Type by Age Group (Stacked %)
-<img src="assets/filtered_race_stats/Split_Type_Per_Sex_Age_Group.png" alt="Split Type Per Sex/Age Group" style="max-height:500px;" />
+![Split Type Per Sex/Age Group](assets/filtered_race_stats/Split_Type_Per_Sex_Age_Group.png)
 
 🛠️ **Excel Features:** 100% stacked column chart\
 🎨 **Design Choice:** Show pacing strategy distribution by age and gender\
@@ -317,7 +317,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** Even splits dominate all age groups. Positive splits increase slightly with age, suggesting a decline in endurance pacing among older runners.
 
 ### 5. Time Distribution (by Sex)
-<img src="assets/filtered_race_stats/Time_Distribution.png" alt="Time Distribution" style="max-height:500px;" />
+![Time Distribution](assets/filtered_race_stats/Time_Distribution.png)
 
 🛠️ **Excel Features:** Clustered column chart with dual series\
 🎨 **Design Choice:** Histogram distribution by chip time with gender overlay\
@@ -325,7 +325,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** Both men and women peak around 43–45 minutes, but male performance is more concentrated in faster bins.
 
 ### 6. Percentage of Club Members by Age Group
-<img src="assets/filtered_race_stats/Percentage_of_Club_Members_by_Age.png" alt="Percentage of Club Members by Age" style="max-height:500px;" />
+![Percentage of Club Members by Age](assets/filtered_race_stats/Percentage_of_Club_Members_by_Age.png)
 
 🛠️ **Excel Features:** 100% stacked column chart\
 🎨 **Design Choice:** Membership rate by age\
@@ -333,7 +333,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** Club membership increases with age, with over 60% of runners aged 40+ being affiliated with a club.
 
 ### 7. Percentage of Club Members by Sex
-<img src="assets/filtered_race_stats/Percentage_of_Club_Members_by_Sex.png" alt="Percentage of Club Members by Sex" style="max-height:500px;" />
+![Percentage of Club Members by Sex](assets/filtered_race_stats/Percentage_of_Club_Members_by_Sex.png)
 
 🛠️ **Excel Features:** 100% stacked column chart\
 🎨 **Design Choice:** Simple binary comparison\
@@ -341,7 +341,7 @@ The following visualizations come from the dashboard: ***Filtered Race Stats***
 💡 **Insights Gained:** Club affiliation is slightly more common among males, suggesting higher club engagement. Men tend to be more driven by competition and structure, which could explain their greater tendency to join running clubs.Club affiliation is slightly more common among males, suggesting higher club engagement.
 
 ### 8. Number of Runners by Club Members
-<img src="assets/filtered_race_stats/Number_of_Runners_by_Club_Members.png" alt="Number of Runners by Club Members" style="max-height:500px;" />
+![Number of Runners by Club Members](assets/filtered_race_stats/Number_of_Runners_by_Club_Members.png)
 
 🛠️ **Excel Features:** Clustered column chart\
 🎨 **Design Choice:** Compare absolute numbers\
@@ -417,11 +417,11 @@ The sidebar provides navigation and runner selection:
 
 ---
 
-<img src="assets/runners_stats/Runners_Stats_Dashboard.png" alt="Overview of Runners Statistics Dashboard" style="max-height:500px;" />
+![Overview of Runners Statistics Dashboard](assets/runners_stats/Runners_Stats_Dashboard.png)
 *Overview of Runners Statistics Dashboard*
 
 ### 1. Pace by Place with Highlighted Runner's Pace
-<img src="assets/runners_stats/Pace_by_Place_with_Highlighted_Runners_Pace.png" alt="Pace by Place with Highlighted Runner’s Pace" style="max-height:500px;" />
+![Pace by Place with Highlighted Runner’s Pace](assets/runners_stats/Pace_by_Place_with_Highlighted_Runners_Pace.png)
 
 🛠️ **Excel Features:** XY scatter chart with annotation for selected runner\
 🎨 **Design Choice:** Position-vs-pace curve with custom marker\
@@ -429,7 +429,7 @@ The sidebar provides navigation and runner selection:
 💡 **Insights Gained:** This chart allows users to quickly assess how the selected runner compares to others in the race. It visually shows how competitive their pace is in relation to the full field. The chart also reveals that the **leading runners are significantly faster** than those behind them, creating a steep initial curve. Toward the end of the race (places 4000–4500), the curve flattens out, indicating a dense cluster of slower runners with relatively small variations in pace.
 
 ### 2. Time Distribution with Highlighted Runner’s Time
-<img src="assets/runners_stats/Time_Distribution_with_Highlighted_Runners_Time.png" alt="Time Distribution with Highlighted Runner’s Time" style="max-height:500px;" />
+![Time Distribution with Highlighted Runner’s Time](assets/runners_stats/Time_Distribution_with_Highlighted_Runners_Time.png)
 
 🛠️ **Excel Features:** Clustered histogram with personalized data overlay\
 🎨 **Design Choice:** Highlight runner's finish time within the full time distribution\
