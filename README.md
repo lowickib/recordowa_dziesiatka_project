@@ -166,6 +166,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 
 ### 1. Number of Runners Per Age Group
 ![Number of Runners Per Age Group](assets/general_race_stats/Number_Of_Runners_Per_Age_Group.png)
+
 🛠️ **Excel Features:** Clustered column chart with data labels\
 🎨 **Design Choice:** Vertical bars sorted by age for intuitive comparison\
 📉 **Data Organization:** Participants grouped by age category\
@@ -173,6 +174,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 
 ### 2. Average Chip Time Per Age Group
 ![Average Chip Time Per Age Group](assets/general_race_stats/Average_Chip_Time_Per_Age_Group.png)
+
 🛠️ **Excel Features:** Clustered column chart with time-formatted axis\
 🎨 **Design Choice:** Clear visual representation of average race time by age\
 📉 **Data Organization:** Bars sorted by age group\
@@ -189,8 +191,6 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 ### 4. Split Type Distribution
 ![Split Type Distribution](assets/general_race_stats/Split_Type_Distribution.png)
 
-
-
 🛠️ **Excel Features:** Clustered column chart with percentages formatted on the Y-axis\
 🎨 **Design Choice:** Vertical bar chart comparing pacing strategy proportions\
 📉 **Data Organization:** Single-category comparison across three pacing types: Even, Positive, and Negative\
@@ -198,6 +198,7 @@ Descriptions of the main charts used in the **General Race Statistics** dashboar
 
 ### 5. Average Pace by Split Type
 ![Average Pace by Split Type](assets/general_race_stats/Average_Pace_by_Split_Type.png)
+
 🛠️ **Excel Features:** Clustered column chart with pace-formatted labels\
 🎨 **Design Choice:** Side-by-side comparison of pacing strategies\
 📉 **Data Organization:** Average pace per split type\
